@@ -1,0 +1,7 @@
+# Dependencies
+projetChallenge1/vendor/
+
+# Environment files
+projetChallenge1/.env
+projetChallenge1/.env.dev
+projetChallenge1/.env.prod
